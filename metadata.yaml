@@ -1,5 +1,8 @@
 _repo: Five-Sermons_8731
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whipple, Henry Benjamin
@@ -14,6 +17,8 @@ description: Sermon at the opening services of the General Convention, October 2
   Council in Washington, D.C., Nov. 13, 1888; Address in Lambeth Chapel, at the first
   session of the Lambeth Conference, July 3, 1888; Sermon at the fourth annual convention
   of the Brotherhood of St. Andrew in Cleveland, Ohio, Sept. 29, 1889.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8731#Five-Sermons
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
